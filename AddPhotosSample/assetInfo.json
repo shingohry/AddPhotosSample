@@ -1,0 +1,27 @@
+[
+    {
+        "imageName": "001.jpg",
+        "latitude": 35.70208,
+        "longitude": 139.767935
+    },
+    {
+        "imageName": "002.jpg",
+        "latitude": 35.697431,
+        "longitude": 139.774696
+    },
+    {
+        "imageName": "003.jpg",
+        "latitude": 35.700722,
+        "longitude": 139.697358
+    },
+    {
+        "imageName": "004.jpg",
+        "latitude": 35.715298,
+        "longitude": 139.772757
+    },
+    {
+         "imageName": "005.jpg",
+         "latitude": 35.549393,
+         "longitude": 139.779839
+    }
+]
