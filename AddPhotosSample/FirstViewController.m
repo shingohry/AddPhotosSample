@@ -11,7 +11,7 @@
 @import Photos;
 @import CoreLocation;
 
-static NSString * const AlbumTitle = @"HasLocationInfo";
+static NSString * const AlbumTitle = @"ContainLocationInfo";
 
 @interface FirstViewController ()
 
